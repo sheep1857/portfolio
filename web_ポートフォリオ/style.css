@@ -1162,6 +1162,7 @@ footer {
 
   #intern .slider-3 .slick-slide .slide-img{
     width: 480px;
+    box-shadow: none;
   }
 
   #intern .slider-3 .slick-slide .slide-img img{
@@ -1170,6 +1171,10 @@ footer {
   }
   .slick-list .slick-track{
     left: 29%;
+  }
+  #intern .slider-3 .slick-slide{
+    margin: 0;
+    height: 300px;
   }
 
   #intern .kyoiku h3, #intern .sukiru h3{
